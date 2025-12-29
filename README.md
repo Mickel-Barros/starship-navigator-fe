@@ -37,9 +37,10 @@ Futuristic, interactive **starship navigation** web app built with **React**, **
 starship-navigator-main/
 ├─ public/                 # Static assets
 ├─ src/
+│  ├─ assets/               
 │  ├─ components/          # UI & custom components
-│  │  ├─ ui/               # shadcn/ui primitives
-│  │  └─ custom/           # Domain-specific components
+│  │  └─ ui/               # shadcn/ui primitives
+│  ├─ context/             # React Context providers 
 │  ├─ hooks/               # Reusable React hooks
 │  ├─ pages/               # Screens/views
 │  ├─ styles/              # Tailwind/global styles
