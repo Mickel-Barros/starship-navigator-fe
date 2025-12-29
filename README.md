@@ -64,7 +64,7 @@ This project uses **Vitest** as the testing framework for unit and component tes
 
 - Run with coverage report
 
-``npm run test coverage``
+``npm run coverage``
 
 🧩 Component Design
 -------------------
